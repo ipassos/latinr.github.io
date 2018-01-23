@@ -1,18 +1,18 @@
 -
- group: {es: "Anfitriones", en: "Hosts"}
+ group: {es: "Anfitriones", en: "Hosts", pt: "Anfitriões"}
  elements: 
    - {name: "JAIIO", description: "JAIIO", link: "http://47jaiio.sadio.org.ar", imageUrl: "jaiio.png"}
    - {name: "SADIO", description: "SADIO", link: "http://www.sadio.org.ar/", imageUrl: "sadio.png"}
    - {name: "UP", description: "UP", link: "http://www.palermo.edu/", imageUrl: "up.jpg"}
 
 - 
-  group: {es: "Sponsors", en: "Sponsors"}
+  group: {es: "Sponsors", en: "Sponsors", pt: "Patrocinadores"}
   elements: 
     - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
     - {name: "DataCamp", description: "DataCamp", link: "https://www.datacamp.com", imageUrl: "DataCamp.png"}
    
 - 
-  group: {es: "Auspicios", en: "Endorsements"}
+  group: {es: "Auspicios", en: "Endorsements", pt: "Apoio"}
   elements: 
     - {name: "R-Foundation", description: "R-Foundation", link: "https://www.r-project.org/foundation/", imageUrl: "R_logo.png"}
     
